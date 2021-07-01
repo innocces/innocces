@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**innocces/innocces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/innocces/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Chengdu
+- 🌱 I’m currently learning go
+- 🤔 like shop and food
+- 💬 Ask me about ?
+- 📫 How to reach me: [github issue[(https://github.com/innocces/innocces/issues)
+- 😄 Pronouns: ajiang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=innocces&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
