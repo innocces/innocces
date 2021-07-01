@@ -12,7 +12,7 @@ There is xijiang ~
 - 🌱 I’m currently learning go
 - 🤔 like shop and food
 - 💬 Ask me about ?
-- 📫 How to reach me: [github issue[(https://github.com/innocces/innocces/issues)
+- 📫 How to reach me: [leave message](https://github.com/innocces/innocces/issues)
 - 😄 Pronouns: ajiang
 
 ### Github Stats
