@@ -5,6 +5,9 @@
   <img src="https://profile-counter.glitch.me/innocces/count.svg" />
 </p>
 
+There is xijiang ~     
+(you also can call me ajiang!)
+
 - 🔭 I’m currently working on Chengdu
 - 🌱 I’m currently learning go
 - 🤔 like shop and food
