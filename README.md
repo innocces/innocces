@@ -18,3 +18,6 @@ There is xijiang ~
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=innocces&hide_title=true&show_icons=true&title_color=8c2de9&icon_color=8c2de9&text_color=8c2de9&bg_color=fff&count_private=true)
+
+### Top Langs
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=innocces&show_icons=true&title_color=8c2de9&icon_color=8c2de9&text_color=8c2de9&bg_color=fff&count_private=true)
