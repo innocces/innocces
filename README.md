@@ -2,7 +2,7 @@
   
   <img width="150" src="https://avatars.githubusercontent.com/u/38065966?v=4" alt="avator of ajiang" />
   
-## Find me! ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=innocces)
+## Find me! [![HitCount](https://hits.dwyl.com/innocces/innocces.svg)](https://hits.dwyl.com/innocces/innocces)
 
   <br/>
   <div>
