@@ -1,0 +1,24 @@
+# Local demand notes & screenshot/test artifacts
+.demand/
+.test/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.output/
+.wrangler/
+.vite/
+.tanstack/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS / editor noise
+.DS_Store
+*.log
+.idea/
+.vscode/
